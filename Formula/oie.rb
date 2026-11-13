@@ -3,9 +3,9 @@ require "open3"
 class Oie < Formula
   desc "Desktop messenger for XMPP accounts"
   homepage "https://github.com/araihu/oie"
-  url "https://github.com/araihu/oie/releases/download/v0.0.1-rc.6/oie_v0.0.1-rc.6_linux_amd64.tar.gz"
-  version "0.0.1-rc.6"
-  sha256 "50c0af954ce018fc431312f379814834a49548858fcef9d69117ef6731e1caa4"
+  url "https://github.com/araihu/oie/releases/download/v0.0.1-rc.8/oie_v0.0.1-rc.8_linux_amd64.tar.gz"
+  version "0.0.1-rc.8"
+  sha256 "81d32aac0ee227ba82b41f91861ce4f2e420cef830599caa3383b98a8a6a26ff"
   license "GPL-3.0-only"
 
   depends_on arch: :x86_64
