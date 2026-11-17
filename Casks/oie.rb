@@ -1,6 +1,6 @@
 cask "oie" do
-  version "0.0.1-rc.40"
-  sha256 "bfe1a0cf0c44f7a1908616ba229d9462a76c9444b2ad190c3bd38beeabfdbe6c"
+  version "0.0.1-rc.41"
+  sha256 "9ada872357d79c43fed3bb68cac8e3a7cd93d99f0d20b38a669392192a706d3a"
 
   url "https://github.com/araihu/oie/releases/download/v#{version}/oie_v#{version}_darwin_arm64.tar.gz"
   name "Oiê"
